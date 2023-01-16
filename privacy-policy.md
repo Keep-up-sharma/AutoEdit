@@ -1,6 +1,6 @@
 
 
-AutoEdit is a Freemium app built by Anmol Sharma that requires credits to function. This Privacy Policy explains our policies regarding the collection, use, and disclosure of Personal Information when you use our Service. By using our Service, you agree to the collection and use of information in accordance with this policy.
+AutoEdit is an app built by Anmol Sharma that requires credits to function. This Privacy Policy explains our policies regarding the collection, use, and disclosure of Personal Information when you use our Service. By using our Service, you agree to the collection and use of information in accordance with this policy.
 
 Information Collection and Use:
 
