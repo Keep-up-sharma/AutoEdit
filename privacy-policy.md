@@ -1,5 +1,4 @@
 
-
 AutoEdit is an app built by Anmol Sharma that requires credits to function. This Privacy Policy explains our policies regarding the collection, use, and disclosure of Personal Information when you use our Service. By using our Service, you agree to the collection and use of information in accordance with this policy.
 
 Information Collection and Use:
@@ -29,3 +28,5 @@ Our Service may contain links to other sites. If you click on a third-party link
 Children's Privacy:
 
 Our Services do not address anyone under the age of 13. We do not knowingly collect personally identifiable information from children under 13. If you are a parent or guardian and you are aware that your child has provided us with Personal Information, please contact us. If we become aware that we have collected Personal Information from children under 13 without verification of parental consent, we take steps to remove that information from our servers.
+
+Contact me for queries: keepupsharma@gmail.com
